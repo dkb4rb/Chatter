@@ -1,0 +1,34 @@
+{
+    "users": {
+        "Juan": {
+            "ID": 7968,
+            "usr": "Juan",
+            "name": "Carlos",
+            "mail": "jjua@hasa.com",
+            "passw": "pwdws"
+        }
+    },
+    "Servers": {
+        "zeus": {
+            "ID": 8368,
+            "HASH_SESSION": "740a931d5e15488f8719dd84d2fd0e1d",
+            "IP": "127.0.1.1",
+            "PORT_LISTENING": 5050,
+            "ZONA": "",
+            "NAME_USR": "zeus",
+            "NAME_SERVER": "zeus",
+            "DOMAIN": "prueba1.com",
+            "USRS_CONECTED": {
+                "users": {
+                    "IP": "",
+                    "USR": "",
+                    "FRIEND": "",
+                    "HASH_SESSION": ""
+                },
+                "State_con": {
+                    "Status": 0
+                }
+            }
+        }
+    }
+}

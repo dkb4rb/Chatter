@@ -1,0 +1,32 @@
+{
+    "users": {
+        "Administrator": {
+            "id": "",
+            "name": "",
+            "usr": "",
+            "mail": ""
+        }
+    },
+    "Servers": {
+        "Zeus": {
+            "ID": "",
+            "HASH_SESSION": "",
+            "IP": "",
+            "PORT_LISTENING": "",
+            "ZONA": "",
+            "NAME_USR": "",
+            "NAME_SERVER": "",
+            "USRS_CONECTED": {
+                "users": {
+                    "IP": "",
+                    "USR": "",
+                    "FRIEND": "",
+                    "HASH_SESSION": ""
+                },
+                "State_con": {
+                    "Status": 0
+                }
+            }
+        }
+    }
+}
