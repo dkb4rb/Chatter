@@ -1,11 +1,11 @@
 {
     "users": {
         "Juan": {
-            "ID": 7968,
+            "ID": 9244,
             "usr": "Juan",
-            "name": "Carlos",
-            "mail": "jjua@hasa.com",
-            "passw": "pwdws"
+            "name": "Juann",
+            "mail": "jjuannc",
+            "passw": "sadas"
         }
     },
     "Servers": {
@@ -17,6 +17,27 @@
             "ZONA": "",
             "NAME_USR": "zeus",
             "NAME_SERVER": "zeus",
+            "DOMAIN": "prueba1.com",
+            "USRS_CONECTED": {
+                "users": {
+                    "IP": "",
+                    "USR": "",
+                    "FRIEND": "",
+                    "HASH_SESSION": ""
+                },
+                "State_con": {
+                    "Status": 0
+                }
+            }
+        },
+        "DESKTOP-PS4AV1S": {
+            "ID": 5550,
+            "HASH_SESSION": "92601adffb3a4bea927b0d47fdf48f2a",
+            "IP": "127.0.1.1",
+            "PORT_LISTENING": 5050,
+            "ZONA": "",
+            "NAME_USR": "DESKTOP-PS4AV1S",
+            "NAME_SERVER": "DESKTOP-PS4AV1S",
             "DOMAIN": "prueba1.com",
             "USRS_CONECTED": {
                 "users": {
